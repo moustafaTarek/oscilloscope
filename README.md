@@ -24,9 +24,11 @@
 
 # How to run the project.
 
-	1. put all the files in the same folder on the same location
-  2. download needed packages in  web app folder (npm install ...) 
-	3. download a virtual port application i recommend VSPE app .
-	4. connect the port (COM1) using VSPE
-  5. using cmd go to web file location and write node index.js to start the server
+1. put all the files in the same folder on the same location
+2. download needed packages in  web app folder (npm install ...) 
+3. download a virtual port application i recommend VSPE app .
+4. connect the port (COM1) using VSPE
+5. using cmd go to web file location and write node index.js to start the server
+6. start proteus simulation 
+7. open web page and write localhost:4000
  
